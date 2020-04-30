@@ -1,0 +1,1 @@
+"C:\tmp\Beats\7.6.0\filebeat\filebeat.exe"  --path.home "C:\tmp\Beats\7.6.0\filebeat" --path.config "C:\tmp\Beats\7.6.0\filebeat" --path.data "C:\tmp\Beats\7.6.0\filebeat\data" --path.logs "C:\tmp\Beats\7.6.0\filebeat\logs" -E logging.files.redirect_stderr=true
